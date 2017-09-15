@@ -1,3 +1,9 @@
+/**
+ * Title: Lettura dati da database MySql remoto
+ * Author: Andrea Gargarone
+ * Version: 1.0
+ */
+
 package it.aea_digital.myapplication;
 
 import android.os.StrictMode;
